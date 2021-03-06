@@ -22,7 +22,7 @@ while ans:
         print("Prolly")
 
     elif answers == 4:
-        print("I'm tired of dis")
+        print("I'm tired of dis shit")
 
     elif answers == 5:
         print("Correct yoself")
